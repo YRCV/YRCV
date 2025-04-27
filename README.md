@@ -20,4 +20,5 @@ I'm very interested in the intersection of software and electronics to create th
 That's why I've decided to dive into projects related to embedded systems, IoT, and robotics.
 
 Skills:
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,tailwind,nodejs,flask,matlab,vite,vscode,clion)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,tailwind,nodejs,flask,matlab,vite,vscode,clion)]
