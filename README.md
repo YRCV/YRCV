@@ -21,4 +21,4 @@ That's why I've decided to dive into projects related to embedded systems, IoT, 
 
 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,tailwind,nodejs,flask,matlab,vite,vscode,clion)]
+![My Skills](https://skillicons.dev/icons?i=cpp,html,css,tailwind,nodejs,flask,matlab,vite,vscode,clion)
