@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello! My name is Yahil Corcino and I am studying for a B.S. Computer Engineering at the New Jersey Institute of Technology.
+Yo! My name is Yahil Corcino and I am studying for a B.S. Computer Engineering at the New Jersey Institute of Technology.
 
 I'm very interested in the intersection of software and electronics to create things that make lives better/easier or are ouright cool.
 
