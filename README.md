@@ -28,7 +28,7 @@
 > `python` `scikit-learn` `three.js` • **🏆 1st overall @ claude hackathon**
 
 ### [SHPE App](https://apps.apple.com/us/app/shpe-njit/id6757627370)
-> eployed app to handle event planning, registrations, rsvps, social feed, etc
+> eployed app to handle event planning, registrations, rsvps, social feed, etc   
 > `expo` `supabase` `ios` `android` • principal & founding developer * 100+ hours of coding over winter break alone
 
 ### [Portfolio site](yrcv.org)
